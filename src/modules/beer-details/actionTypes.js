@@ -1,0 +1,4 @@
+export const FETCH_BEER_DETAILS_START = 'beer-details/FETCH_BEER_DETAILS_START';
+export const FETCH_BEER_DETAILS = 'beer-details/FETCH_BEER_DETAILS';
+export const FETCH_BEER_DETAILS_SUCCESS = 'beer-details/FETCH_BEER_DETAILS_SUCCESS';
+export const FETCH_BEER_DETAILS_ERROR = 'beer-details/FETCH_BEER_ERROR';
